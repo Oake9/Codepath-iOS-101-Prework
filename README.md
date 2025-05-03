@@ -18,7 +18,7 @@ The following **required** functionality is completed:
 Here is a short demo of how the app works: <br><br>
 **Step 1**: The app shows three labels and a button. <br>
 **Step 2**: When you tap the button, the background color changes to a random color. <br><br>
-(https://www.loom.com/share/76b7fd6533e0474ea7e1ed3ab95513b2?sid=0efb5d01-907c-42bb-bdea-9b7c5706e108)
+https://www.loom.com/share/76b7fd6533e0474ea7e1ed3ab95513b2?sid=0efb5d01-907c-42bb-bdea-9b7c5706e108
 
 ## App Brainstorming (Step 4)
 **Discord**
